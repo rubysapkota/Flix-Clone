@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ba3679b4c4428e6a6d83c5308d3af99b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98597a34553b993ff2a730d6649c282f68"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e03e690e60d284407fedcb959b6f3ab1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985c2e049fc54fccec02ed70525924fef2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a447ab5ff5b5c0d40d6cbc1127fa88ad"
+    }
+  ],
+  "containerPath" : "/Users/rubysapkota/Desktop/flixsby1/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/rubysapkota/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rubysapkota/Library/Developer/Xcode/DerivedData/Pods-croyjqrhzkcepqfvehiwgtvozlsq/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rubysapkota/Library/Developer/Xcode/DerivedData/Pods-croyjqrhzkcepqfvehiwgtvozlsq/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

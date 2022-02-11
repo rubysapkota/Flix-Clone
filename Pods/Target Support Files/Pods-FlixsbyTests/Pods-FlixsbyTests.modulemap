@@ -1,0 +1,6 @@
+framework module Pods_FlixsbyTests {
+  umbrella header "Pods-FlixsbyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

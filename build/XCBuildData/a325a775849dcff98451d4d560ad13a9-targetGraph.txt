@@ -1,0 +1,12 @@
+Target dependency graph (5 targets)
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+Pods-Flixsby in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Pods-Flixsby-FlixsbyUITests in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+Pods-FlixsbyTests in Pods, depends on:
+Pods-Flixsby in Pods (explicit)
